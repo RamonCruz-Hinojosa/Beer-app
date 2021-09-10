@@ -1,0 +1,20 @@
+.beer {
+  height: 200px;
+}
+
+.list {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.listitem {
+  width: 200px;
+}
+
+.like {
+  margin-bottom: 50px;
+}
+
+.color {
+  color: blue;
+}
